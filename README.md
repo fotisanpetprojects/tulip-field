@@ -29,7 +29,7 @@ What is still being tuned:
 
 ## How It Works
 
-The runtime pipeline in [content.js](/Users/fotisan/Documents/PET%20PROJECTS/nl-homesickness/content.js) is:
+The runtime pipeline in `content.js` is:
 
 1. detect candidate blocks:
    - nav rows
@@ -64,14 +64,14 @@ The runtime pipeline in [content.js](/Users/fotisan/Documents/PET%20PROJECTS/nl-
 1. Open `chrome://extensions`
 2. Enable Developer mode
 3. Click "Load unpacked"
-4. Select [nl-homesickness](/Users/fotisan/Documents/PET%20PROJECTS/nl-homesickness)
+4. Select the project folder
 5. Reload the extension after file changes
 
 Main files:
 
-- [manifest.json](/Users/fotisan/Documents/PET%20PROJECTS/nl-homesickness/manifest.json)
-- [background.js](/Users/fotisan/Documents/PET%20PROJECTS/nl-homesickness/background.js)
-- [content.js](/Users/fotisan/Documents/PET%20PROJECTS/nl-homesickness/content.js)
+- `manifest.json`
+- `background.js`
+- `content.js`
 
 ## Publishing Later
 
