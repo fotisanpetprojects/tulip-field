@@ -14,7 +14,7 @@ English
 
 ## Single Purpose
 
-Tulip Field Generator transforms the current webpage into a stylized Dutch tulip-field composition by detecting page regions and rendering a local decorative overlay.
+Tulip Field Generator transforms the current webpage into a stylised Dutch tulip-field composition by detecting page regions and rendering a local decorative overlay.
 
 ## Short Description
 
@@ -22,16 +22,16 @@ Turn the current webpage into a Dutch tulip-field composition with procedural fl
 
 ## Detailed Description
 
-Tulip Field Generator reinterprets the current webpage as a stylized Dutch landscape.
+Tulip Field Generator reinterprets the current webpage as a stylised Dutch landscape.
 
-When you click the extension, it analyzes the visible page structure, groups related content areas, and paints them as tulip-field parcels using procedural flowers and vertical field corridors.
+When you click the extension, it analyses the visible page structure, groups related content areas, and paints them as tulip-field parcels using procedural flowers and vertical field corridors.
 
-Key behaviors:
+Key behaviours:
 
 - works on the active tab only when you click it
 - processes the page locally in the browser
 - uses procedural tulip rendering instead of static sprite sheets
-- keeps page structure recognizable while transforming it into a field composition
+- keeps page structure recognisable while transforming it into a field composition
 
 Tulip Field Generator is an artistic browsing tool. It does not collect user data, does not require an account, and does not send page contents to external servers.
 
@@ -57,6 +57,12 @@ Required to inject the content script that reads page structure and renders the 
 ## Support
 
 Add your preferred support email or repository issue URL before publication.
+
+## Privacy Policy URL
+
+Use this public URL in the Chrome Web Store dashboard:
+
+`https://github.com/fotisanpetprojects/tulip-field/blob/main/PRIVACY_POLICY.md`
 
 ## Listing Assets Checklist
 

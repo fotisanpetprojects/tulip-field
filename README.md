@@ -1,6 +1,6 @@
 # Tulip Field Generator
 
-Tulip Field Generator is a Chrome extension that transforms a webpage into a stylized Dutch field composition.
+Tulip Field Generator is a Chrome extension that transforms a webpage into a stylised Dutch field composition.
 
 It does not replace the DOM with screenshots or PNG sprites. Instead, it:
 
@@ -11,7 +11,7 @@ It does not replace the DOM with screenshots or PNG sprites. Instead, it:
 
 ## Current State
 
-Current extension version: `0.8.6`
+Current extension version: `0.9.0`
 
 What the current build does well:
 
@@ -19,13 +19,13 @@ What the current build does well:
 - merges tiny metadata-like fragments into stronger nearby parcels
 - expands fields into surrounding whitespace so the page feels partitioned
 - renders procedural tulip fields with fixed Dutch-style vertical corridors
-- keeps field colors more stable while scrolling than earlier builds
+- keeps field colours more stable while scrolling than earlier builds
 
 What is still being tuned:
 
 - perfect coverage on highly dynamic pages
-- color stability during heavy lazy-loading and layout settling
-- long-scroll behavior on complex app UIs
+- colour stability during heavy lazy-loading and layout settling
+- long-scroll behaviour on complex app UIs
 
 ## How It Works
 
@@ -37,11 +37,11 @@ The runtime pipeline in `content.js` is:
    - media
    - text
 2. dedupe overlapping candidates
-3. absorb micro-blocks into stronger neighboring blocks
+3. absorb micro-blocks into stronger neighbouring blocks
 4. build clusters
 5. expand cluster territories
 6. assign leftover uncovered regions to the nearest cluster
-7. assign stable tulip color families to the final fields
+7. assign stable tulip colour families to the final fields
 8. render territories first, then core blocks
 
 ## Visual System

@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Tulip Field Generator",
   "version": "0.9.0",
-  "description": "Transforms the current page into a stylized Dutch tulip field.",
+  "description": "Transforms the current page into a stylised Dutch tulip field.",
   "icons": {
     "16": "assets/icons/icon-16.png",
     "32": "assets/icons/icon-32.png",

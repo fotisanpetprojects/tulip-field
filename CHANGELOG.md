@@ -16,15 +16,15 @@ Solution:
 
 ## 0.8.6
 
-- Made field color assignment stickier during scroll and rerender
-- Reduced color churn by basing cluster identity on stronger content anchors instead of every absorbed fragment
+- Made field colour assignment stickier during scroll and re-render
+- Reduced colour churn by basing cluster identity on stronger content anchors instead of every absorbed fragment
 - Kept cached field families instead of letting adjacency reshuffle existing parcels
 
 Problem:
-- fields kept recoloring during scroll and during post-scroll settling
+- fields kept recolouring during scroll and during post-scroll settling
 
 Solution:
-- prioritize continuity and cached identity over fresh recomputation
+- prioritise continuity and cached identity over fresh recomputation
 
 ## 0.8.5
 
@@ -45,7 +45,7 @@ Solution:
 - Increased tulip density by roughly 15%
 
 Problem:
-- fields still looked glossy and color flicker was noticeable during scroll
+- fields still looked glossy and colour flicker was noticeable during scroll
 
 Solution:
 - removed highlight marks and added continuity-based field reuse
@@ -68,7 +68,7 @@ Solution:
 - Added glossy experiments
 
 Problem:
-- colors were still changing because geometry changed slightly across rerenders
+- colours were still changing because geometry changed slightly across re-renders
 
 Solution:
 - made seeds less dependent on precise geometry
@@ -79,14 +79,14 @@ Note:
 ## 0.8.1
 
 - Made territories and core blocks fully opaque
-- Moved color assignment after final territory generation
+- Moved colour assignment after final territory generation
 - Added adjacency-aware field family assignment
 - Increased field density and narrowed corridors
 
 Problem:
 - page content showed through the fields
-- adjacent fields could share the same flower color
-- field color identity changed too easily
+- adjacent fields could share the same flower colour
+- field colour identity changed too easily
 
 Solution:
 - removed transparency and assigned families from the final field graph
@@ -133,7 +133,7 @@ Solution:
 - Added leftover whitespace assignment pass
 
 Problem:
-- blocks expanded until they met neighbors, but some page areas still remained uncovered
+- blocks expanded until they met neighbours, but some page areas still remained uncovered
 
 Solution:
 - detect unclaimed regions and assign them to the nearest field cluster
@@ -146,7 +146,7 @@ Problem:
 - tiny metadata and short fragments became isolated micro-fields
 
 Solution:
-- absorb small blocks into stronger nearby neighbors before territory growth
+- absorb small blocks into stronger nearby neighbours before territory growth
 
 ## 0.7.4
 
@@ -167,7 +167,7 @@ Problem:
 - on dynamic pages like Facebook, pastel blocks stayed hanging in old positions
 
 Solution:
-- rerender continuously with throttling
+- re-render continuously with throttling
 
 ## 0.7.2
 

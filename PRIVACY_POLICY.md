@@ -2,11 +2,11 @@
 
 Last updated: 2026-04-06
 
-Tulip Field Generator is a Chrome extension that visually transforms the currently active page into a stylized tulip-field overlay.
+Tulip Field Generator is a Chrome extension that visually transforms the currently active page into a stylised tulip-field overlay.
 
 ## Data Collection
 
-Tulip Field Generator does not collect, sell, or share personal data.
+Tulip Field Generator does not collect, sell or share personal data.
 
 Tulip Field Generator does not:
 
@@ -43,4 +43,4 @@ For support or privacy questions, use the repository contact details or the supp
 
 ## Chrome Web Store Notes
 
-This policy is intended to support the Chrome Web Store privacy disclosure requirements. Review and update it before publication if the extension's behavior changes.
+This policy is intended to support the Chrome Web Store privacy disclosure requirements. Review and update it before publication if the extension's behaviour changes.
