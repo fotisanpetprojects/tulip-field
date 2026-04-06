@@ -1,5 +1,19 @@
 # Changelog
 
+## 0.9.0
+
+- Added Chrome Web Store publication assets and docs
+- Added manifest icon set support
+- Added privacy policy
+- Added store listing draft
+- Added packaging script for upload zip
+
+Problem:
+- the project was pushed to GitHub but not yet ready for store submission
+
+Solution:
+- added the required packaging and listing scaffolding for Chrome Web Store publication
+
 ## 0.8.6
 
 - Made field color assignment stickier during scroll and rerender
