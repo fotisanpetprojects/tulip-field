@@ -2,7 +2,7 @@
 
 ## Extension Name
 
-Tulip Field
+Tulip Field Generator
 
 ## Category
 
@@ -14,7 +14,7 @@ English
 
 ## Single Purpose
 
-Tulip Field transforms the current webpage into a stylized Dutch tulip-field composition by detecting page regions and rendering a local decorative overlay.
+Tulip Field Generator transforms the current webpage into a stylized Dutch tulip-field composition by detecting page regions and rendering a local decorative overlay.
 
 ## Short Description
 
@@ -22,7 +22,7 @@ Turn the current webpage into a Dutch tulip-field composition with procedural fl
 
 ## Detailed Description
 
-Tulip Field reinterprets the current webpage as a stylized Dutch landscape.
+Tulip Field Generator reinterprets the current webpage as a stylized Dutch landscape.
 
 When you click the extension, it analyzes the visible page structure, groups related content areas, and paints them as tulip-field parcels using procedural flowers and vertical field corridors.
 
@@ -33,7 +33,7 @@ Key behaviors:
 - uses procedural tulip rendering instead of static sprite sheets
 - keeps page structure recognizable while transforming it into a field composition
 
-Tulip Field is an artistic browsing tool. It does not collect user data, does not require an account, and does not send page contents to external servers.
+Tulip Field Generator is an artistic browsing tool. It does not collect user data, does not require an account, and does not send page contents to external servers.
 
 ## Permissions Justification
 

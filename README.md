@@ -1,6 +1,6 @@
-# Tulip Field
+# Tulip Field Generator
 
-Tulip Field is a Chrome extension that transforms a webpage into a stylized Dutch field composition.
+Tulip Field Generator is a Chrome extension that transforms a webpage into a stylized Dutch field composition.
 
 It does not replace the DOM with screenshots or PNG sprites. Instead, it:
 
