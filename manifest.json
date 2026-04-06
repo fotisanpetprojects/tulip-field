@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Tulip Field",
+  "version": "0.8.6",
+  "description": "Transforms the current page into a stylized Dutch tulip field.",
+  "permissions": ["activeTab", "scripting"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_title": "Tulip Field"
+  }
+}
