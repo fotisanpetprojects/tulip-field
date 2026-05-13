@@ -1,6 +1,8 @@
-# Publishing Prep
+# Publishing Notes
 
-This project is prepared for Chrome Web Store submission, but a few dashboard-side steps still need to be completed manually.
+Tulip Field Generator is already published in the Chrome Web Store:
+
+- [Tulip Field Generator](https://chromewebstore.google.com/detail/tulip-field-generator/nkllngcebaboplbljhhedlnllkjjeemf?utm_source=item-share-cb)
 
 ## Included in the repo
 
@@ -20,14 +22,13 @@ Run:
 
 This creates a zip in `dist/`.
 
-## Before submitting
+## For future releases
 
-1. Review `STORE_LISTING.md`
-2. Add a real support email or issue URL
-3. Capture screenshots of the extension in use
-4. Upload the generated zip to the Chrome Web Store Developer Dashboard
-5. Fill in the privacy answers so they match `PRIVACY_POLICY.md`
-6. Verify the single-purpose field matches the extension behaviour
+1. Update the version in `manifest.json`
+2. Rebuild the upload zip
+3. Review `STORE_LISTING.md` and `PRIVACY_POLICY.md` if behaviour or permissions change
+4. Upload the new zip in the Chrome Web Store Developer Dashboard
+5. Update screenshots or listing copy if the product presentation changes
 
 ## Official References
 

@@ -73,12 +73,17 @@ Main files:
 - `background.js`
 - `content.js`
 
-## Publishing Later
+## Chrome Web Store
 
-Before Chrome Web Store publication, we should still do:
+Tulip Field Generator is live in the Chrome Web Store:
 
-- final naming/icons review
-- permissions sanity pass
-- README/screenshots for store listing
-- version discipline and release notes
-- a stability pass on dynamic sites like GitHub, Facebook, and Reddit
+- [Tulip Field Generator](https://chromewebstore.google.com/detail/tulip-field-generator/nkllngcebaboplbljhhedlnllkjjeemf?utm_source=item-share-cb)
+
+## Post-Launch Focus
+
+Now that the extension is published, the main follow-up work is:
+
+- stability passes on dynamic sites like GitHub, Facebook, and Reddit
+- small visual refinements and rendering consistency
+- disciplined versioning and release notes for updates
+- store-listing maintenance if screenshots, copy, or support details change
